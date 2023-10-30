@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\ivan-\source\repos\MainWinApp\MainWinApp\MyForm.h(909,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\ivan-\source\repos\MainWinApp\MainWinApp\MyForm.h(916,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\ivan-\source\repos\MainWinApp\MainWinApp\MyForm.h(944,13): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  MainWinApp.vcxproj -> C:\Users\ivan-\source\repos\MainWinApp\x64\Debug\MainWinApp.exe
