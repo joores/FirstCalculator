@@ -36,4 +36,4 @@
 
 1. Клонируй репозиторий:
    ```bash
-   git clone https://github.com/joores/НАЗВАНИЕ_РЕПОЗИТОРИЯ.git
+   git clone https://github.com/joores/FirstCalculator.git
